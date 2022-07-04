@@ -4,22 +4,22 @@
     "/*": {
       "Access-Control-Allow-Origin": "*",
       "Content-Type": "text/html; charset=UTF-8",
-      "X-Reply": "leontevanna"
+      "X-Reply": "leontevannaivt"
     },
     "/promise/*": {
       "Access-Control-Allow-Origin": "*",
       "Content-Type": "text/plain; charset=UTF-8",
-      "X-Reply": "leontevanna"
+      "X-Reply": "leontevannaivt"
     },
     "/fetch/*": {
       "Access-Control-Allow-Origin": "*",
       "Content-Type": "text/html; charset=UTF-8",
-      "X-Reply": "leontevanna"
+      "X-Reply": "leontevannaivt"
     },    
     "/login/*": {
       "Access-Control-Allow-Origin": "*",
       "Content-Type": "text/plain; charset=UTF-8",
-      "X-Reply": "leontevanna"
+      "X-Reply": "leontevannaivt"
     }    
   }    
 }
